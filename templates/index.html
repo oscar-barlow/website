@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+     	 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+     		 <!-- Enable responsiveness on mobile devices-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+		<meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
+		<meta name="author" content="{{ config.extra.author }}">
+
+		<title>{% block title %}{{ config.extra.site_title }}{% endblock title %}</title>
+
+	</head>
+	<body>
+		{% block content %}
+		<h1>I am Oscar and this is my website.</h1>
+		<p><a href="https://github.com/oscar-barlow/">github</a> / <a href="/blog">blog</a>
+		{% endblock content %}
+	</body>
+</html>
