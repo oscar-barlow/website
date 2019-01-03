@@ -8,7 +8,9 @@ script:
   - zola build
 
 deploy:
-  provider: surge
-  project: ./public/
-  domain: oscar-barlow.surge.sh
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: $AWS_WEBSITE_BUCKET
   skip_cleanup: true
+  region: "eu-west-1"
+  local_dir: "public"
