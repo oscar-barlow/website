@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "http://oscar-barlow.surge.sh/"
+base_url = "http://oscar-barlow-cd511fb2-408f-4af5-ac2c-436f7d472a87.s3-website-eu-west-1.amazonaws.com/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
