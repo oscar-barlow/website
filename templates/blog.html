@@ -10,7 +10,7 @@
 
             <ul>
             {% for post in posts %}
-                <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+                <li><a href="{{ post.permalink }}">{{ post.title }}</a> <em>{{post.date}}</em></li>
             {% endfor %}
             </ul>
         {% endfor %}
