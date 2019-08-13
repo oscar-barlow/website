@@ -13,7 +13,7 @@ I'll buy a £3 cup of coffee without really thinking about it. I'll spend £5 on
 ## 2. Think about it
 Select a gift based on what you know about a person and what they like. It's fine for them to tell you what they like. And it's fine for you to ask.
 
-### 3. Delight correlates strongly with unexpectedness
-If can select something that the recipient wouldn't think to buy for themselves, you can significantly increase how delighted the recipient is with the gift.
+## 3. Delight correlates strongly with unexpectedness
+If you can select something that the recipient wouldn't think to buy for themselves, you can significantly increase how delighted the recipient is with the gift.
 
 This holds true if (and it's an important if) you're obeying the rules above. If not, results may be a bit more varied!

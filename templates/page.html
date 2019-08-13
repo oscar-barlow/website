@@ -7,15 +7,18 @@
 {% block content %}
     <div>
         <div>
-            <div class="post__meta">
-                {% if page.date %}{{ page.date | date(format="%Y-%m-%d") }}{% endif %}
-                {% if page.extra.updated %}(last updated: {{ page.extra.updated | date(format="%Y-%m-%d") }}){% endif %}
-            </div>
-            <hr />
+            <a href="/">home</a> / <a href="/blog">blog</a>
         </div>
 
         <div class="post__body">
             {{ page.content | safe }}
         </div>
+        <div>
+            <hr />
+                <div class="post__meta">
+                    {% if page.date %}published {{ page.date | date(format="%Y-%m-%d") }}.{% endif %}
+                    {% if page.extra.updated %}(last updated: {{ page.extra.updated | date(format="%Y-%m-%d") }}.){% endif %}
+                </div>
+            </div>
     </div>
 {% endblock content %}
