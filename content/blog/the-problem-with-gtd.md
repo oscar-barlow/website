@@ -1,10 +1,15 @@
 +++
 title = "The problem with Getting Things Done (GTD)"
 description = "Chunk size is far too big."
-date = 2018-10-06
+date = 2019-08-15
 +++
 
-# Rules for writing
+# The problem with Getting Things Done (GTD)
+Does the world need another blog post about Getting Things Done (GTD)? Here goes anyway.
+
+If you haven't heard of it before, 
+
+
 used to do GTD
 i kept falling off the waggon
 discipine is bullshit
