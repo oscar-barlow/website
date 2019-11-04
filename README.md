@@ -1,2 +1,2 @@
-# oscar-barlow.github.io
+# website 
 Personal site built with [zola](https://www.getzola.org/).
