@@ -18,6 +18,8 @@ As I was coming to the end of _The Mythical Man Month_, I realised that I have q
 * Correspondingly, helping the organisation to prioritise
 * Understanding the team's, and organisation's, strengths and weaknesses
 * Facilitating communication, creativity, and decision making
+* Acting with courage
+* Resolving conflict productively
 
 ## Team management
 * Upholding agreements the team has made, to themselves and to others
