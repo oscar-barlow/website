@@ -1,14 +1,17 @@
-+++
-title = "Deploying a static Zola site with Travis and S3"
-description = "It's mostly a matter of reading docs and gluing stuff together."
-date = 2019-01-02
-+++
-
-# Deploying a static Zola site with Travis and S3
+---
+id: deploying-static-site-with-travis-s3
+title: Deploying a static Zola site with Travis and S3
+author: Oscar Barlow
+tags: [travis, zola, s3]
+---
 
 I recently decided to relaunch my personal website and to migrate my blog away from Medium ([reasons](https://medium.com/@nikitonsky/medium-is-a-poor-choice-for-blogging-bb0048d19133)). 
 
 Below I've described my reasons for choosing the tools I did, and how I glued them together to serve my site.
+
+_Update, 27/12/2019: I now use Docusaurus instead of Zola, but I still the rest of the post stands so I'm gonna leave it__
+
+<!-- truncate -->
 
 ## Tools & Motivations
 

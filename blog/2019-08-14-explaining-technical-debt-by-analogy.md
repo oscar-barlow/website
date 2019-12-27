@@ -1,13 +1,15 @@
-+++
-title = "Explaining technical debt by analogy"
-description = "It's possible to over-extend the analogy, but understanding how that technical debt can be considered an investment is a boon."
-date = 2019-08-14
-+++
+---
+id: explaining-technical-debt-by-analogy
+title: Explaining technical debt by analogy
+author: Oscar Barlow
+tags: [techdebt]
+---
 
-# Explaining technical debt by analogy
 I interested to read a post on the Squarespace engineering blog, [3 Good Types of Tech Debt](https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt), exploring the subject of tech debt. I think it's good that the idea that tech debt is receiving though and attention; in this vein I'm somewhat reminded of [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt).
 
 The mental shift that the Squarespace article encourages you to make is from 'tech debt is a blight on my project and a stain on my record as a developer' towards 'tech debt is a form of investment that, used wisely, can be extremely beneficial to your project'. The article explains more fulsomely.
+
+<!-- truncate -->
 
 Beyond helping your project succeed technically, I think that changing how you conceptualise tech debt can also help your non-technical stakeholders understand it; what it is, why it can be useful to incur, and when it needs to be paid off.
 

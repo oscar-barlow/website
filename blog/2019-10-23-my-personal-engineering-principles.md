@@ -1,13 +1,15 @@
-+++
-title = "My personal engineering principles"
-description = "Could probably be derived from a general starting position of scepticism and humility, but why don't you click through and read them anyhow?"
-date = 2019-10-23
-+++
+---
+id: my-personal-engineering-principles
+title: My personal engineering principles
+author: Oscar Barlow
+tags: [principles]
+---
 
-# My personal engineering principles
-"What are your personal engineering principles?"
+_"What are your personal engineering principles?"_
 
 This is one of my favourite interview questions for experienced developers or engineers. Problem-solving approach and mindset are in my view more important than any specific technical knowledge in an engineer, and a good answer to this question evidences this in a candidate.
+
+<!-- truncate -->
 
 A typical answer (unfortunately) goes something along the lines of _"Well, I strive for quality of course, and I write unit tests, and also I think documentation is, like, important."_
 

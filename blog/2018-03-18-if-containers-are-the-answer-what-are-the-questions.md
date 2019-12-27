@@ -1,10 +1,13 @@
-+++
-title = "If Containers Are the Answer, What are the Questions?"
-description = "The axioms in the blog post below came after penny-drop moments — where something I’d heard, or been told, really sank in."
-date = 2018-03-18
-+++
-# If containers are the answer, what are the questions?
-Answering the titular question has two components. First of all, if you don’t know what a container is, then the short article [What are containers and why do you need them?](https://www.cio.com/article/2924995/what-are-containers-and-why-do-you-need-them.html) (CIO.com - beware a slightly irritating regwall)  should help.
+---
+id: if-containers-are-the-answer-what-are-the-questions
+title: If Containers Are the Answer, What are the Questions?
+author: Oscar Barlow
+tags: [containers, oreilly, distributed systems]
+---
+
+Answering the titular question has two components. First of all, if you don’t know what a container is, then the short article [What are containers and why do you need them?](https://www.cio.com/article/2924995/what-are-containers-and-why-do-you-need-them.html) (CIO.com - beware a slightly irritating regwall) should help.
+
+<!-- truncate -->
 
 OK, now that we’ve grasped the concept of containers, perhaps we can move on the second part: what kinds of problems to containers solve?
 

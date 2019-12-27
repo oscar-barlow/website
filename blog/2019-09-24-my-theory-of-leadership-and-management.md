@@ -1,11 +1,13 @@
-+++
-title = "My theories of what leadership and management are"
-description = "It is surprising how much of both of them involve you interrogating yourself."
-date = 2019-09-24
-+++
+---
+id: my-theory-of-leadership-and-management
+title: My theories of what leadership and management are
+author: Oscar Barlow
+tags: [principles, leadership, management]
+---
 
-# My theories of what leadership and management are
 I've read [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) and [The Phoenix Project](https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/) recently. They're both excellent, and have a surprising amount in common despite the 30-odd year gap between their publication. In particular, both are apparently about IT but are actually about management and leadership.
+
+<!-- truncate -->
 
 As I was coming to the end of _The Mythical Man Month_, I realised that I have quite well developed theories about what leadership, team management, and person management are. The lists are unordered, as they were scribbled in a Kindle note as I was finishing a chapter.
 

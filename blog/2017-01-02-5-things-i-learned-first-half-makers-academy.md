@@ -1,13 +1,15 @@
-+++
-title = "5 things I learned in the first half of Makers Academy"
-description = "The axioms in the blog post below came after penny-drop moments — where something I’d heard, or been told, really sank in."
-date = 2017-01-02
-+++
+---
+id: 5-things-i-learned-first-half-makers-academy
+title: 5 things I learned in the first half of Makers Academy
+author: Oscar Barlow
+tags: [makers, bootcamp, learning]
+---
 
-# 5 things I learned in the first half of Makers Academy
 The axioms in the blog post below came after ‘penny-drop’ moments — where something I’d heard, or been told, really sank in.
 
 Hopefully you’ll see that all these axioms are related. They look like five things, but really they’re all the same thing. Happy reading!
+
+<!-- truncate -->
 
 ## 1. The best measure of progress is ‘learning velocity’
 There’s a concept in agile software development called velocity. In short: progress should be defined as units of work done over a particular time interval (let’s say a week).

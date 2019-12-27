@@ -1,10 +1,9 @@
-+++
-title = "Rules for writing"
-description = "Tell the truth."
-date = 2018-10-06
-+++
-
-# Rules for writing
+---
+id: rules-for-writing
+title: Rules for writing
+author: Oscar Barlow
+tags: [writing]
+---
 1. Tell the truth.
 2. Good writing is actually good thinking.
 
